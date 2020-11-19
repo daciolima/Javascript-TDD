@@ -1,0 +1,26 @@
+{
+  "name": "javascript-tdd",
+  "version": "1.0.0",
+  "description": "Biblioteca base para Javascript-TDD ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daciolima/Javascript-TDD.git"
+  },
+  "keywords": [
+    "js",
+    "tdd",
+    "library",
+    "javascript",
+    "test"
+  ],
+  "author": "Dacio Lima <contato.dacio@gmail.com> (https://www.daciolima.dev.br/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daciolima/Javascript-TDD/issues"
+  },
+  "homepage": "https://github.com/daciolima/Javascript-TDD#readme"
+}
